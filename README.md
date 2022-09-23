@@ -12,7 +12,7 @@ I am a yourng software engineer with knowledge of many different front-end and b
 ---
 
 ### 🧰 Languages and Tools
-
+<div style="display:flex; ">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -22,15 +22,15 @@ I am a yourng software engineer with knowledge of many different front-end and b
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
 <br />
 
 #
 ### 📊 Stats
-<div style="display:flex">
+<div style="display:flex; justify-content:space-evenly;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntoineGaton"/>
 <img src="https://github-readme-stats.vercel.app/api?username=AntoineGaton"/>
 </div>
-#
 
 <details>
  <summary><h3>👨‍💻 Antoine's Coding Journey</h3></summary>
