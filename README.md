@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 
-I am a yourng software engineer with knowledge of many different front-end and back-end languages, responsive frameworks, and databases. Currently, I am a teacher assistant at the Bootcamp I graduated from, Coding Dojo. As a TA I am constantly improving upon my skills and discovering new technologies and frameworks in pursuit of becoming a well-rounded developer. Never been on to journal or keep a diary but my gitHub is the closest representation of that and my journey through computer science.
+I am a young software engineer with knowledge of many different front-end and back-end languages, responsive frameworks, and databases. Currently, I am a teacher assistant at the Bootcamp I graduated from, Coding Dojo. As a TA I am constantly improving upon my skills and discovering new technologies and frameworks in pursuit of becoming a well-rounded developer. Never been on to journal or keep a diary but my gitHub is the closest representation of that and my journey through computer science.
    <p align="left">
     <a href="https://www.linkedin.com/in/antoine-gaton/">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
