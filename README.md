@@ -26,4 +26,4 @@ I am a yourng software engineer with knowledge of many different front-end and b
 
 #
 
-<img src="{https://github-readme-streak-stats.herokuapp.com/?user=AntoineGaton}"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AntoineGaton"/>
