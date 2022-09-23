@@ -25,5 +25,16 @@ I am a yourng software engineer with knowledge of many different front-end and b
 <br />
 
 #
-
+### 📊 Stats
+<div style="display:flex">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntoineGaton"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AntoineGaton"/>
+</div>
+#
+
+<details>
+ <summary><h3>👨‍💻 Antoine's Coding Journey</h3></summary>
+   If you are reading this...thanks! This hidden section is my cave painting. Where I can reflect and share where I came from and where I am going as a developer. My coding journey really started the day I first touched a keyboard but when the universe really jolted me onto this path is when the pandemic occured. As a nursing student in the last semester and ready to set his career in the medical field the pandemic was a real eye opener. As a person who is immunocompromised it was difficult doing long shift at the hospital and wondering about my safety and health. That's when I started reassing and wondering if that was the right path for me in the long run...
+
+[website]: COMING SOON...
+[youtube]: COMING sOON...
