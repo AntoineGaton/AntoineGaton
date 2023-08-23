@@ -29,7 +29,6 @@ I am a young software engineer with knowledge of many different front-end and ba
 ### 📊 Stats
 <div style="display:flex; justify-content:space-evenly;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntoineGaton"/>
-<img src="https://github-readme-stats.vercel.app/api?username=AntoineGaton"/>
 </div>
 
 <details>
