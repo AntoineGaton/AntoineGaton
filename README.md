@@ -1,35 +1,29 @@
-# 🐵 Antoine Gaton
+### 👋 Hello World, I'm Antoine Gaton!
 
-**`Full-Stack Developer`**
+I'm a **passionate software engineer** with a diverse skill set spanning across front-end and back-end languages, responsive frameworks, and databases. Beyond coding, I embrace the role of a teacher assistant at a boot camp, taking immense pride in guiding aspiring developers on their coding journey.
 
-I am a young software engineer with knowledge of many different front-end and back-end languages, responsive frameworks, and databases. Currently, I am a teacher assistant at the Bootcamp I graduated from, Coding Dojo. As a TA I am constantly improving upon my skills and discovering new technologies and frameworks in pursuit of becoming a well-rounded developer. Never been on to journal or keep a diary but my gitHub is the closest representation of that and my journey through computer science.
-   <p align="left">
-    <a href="https://www.linkedin.com/in/antoine-gaton/">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> 
-   </p>
+### 🚀 My Tech Journey
+My journey in software engineering is fueled by a relentless love for coding and an insatiable hunger for learning. I thrive on the challenges that coding presents and enjoy the process of creating impactful solutions. My technical expertise is broad and varied, with proficiency in:
 
----
+- **Languages**: Python, JavaScript, Java, C++, C#, COBOL, JCL
+- **Frameworks/Libraries**: Flask, Node.js, React, Express.js, Jinja2, BCrypt, PyMySQL, Mongoose, ASP.NET Core, Bootstrap, Scrappy, SQLLite
+- **Databases**: MySQL, MongoDB, DB2, IMS
+- **Tools**: Git, GitHub, VSCode, IntelliJ, AWS, Postman, MySQL Workbench, MongoAtlas, JIRA
 
-### 🧰 Languages and Tools
-<div style="display:flex; justify-content:space-evenly;">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
-<br />
+### 📚 Educating and Inspiring
+As a teacher assistant, I have the unique privilege of sharing my passion and knowledge with budding developers. Guiding students through the complexities of coding and witnessing their growth is profoundly rewarding and continuously fuels my commitment to self-improvement and staying abreast with cutting-edge technologies.
 
-#
-### 📊 Stats
-<div style="display:flex; justify-content:space-evenly;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AntoineGaton"/>
-</div>
+### 💪 What I Bring to the Table
+Count on my strong work ethic, eagerness to embrace new technologies, and unwavering dedication to refining my craft. I'm always on the lookout to collaborate on innovative projects and contribute to the success of dynamic teams. If you believe there's a role where I can make a meaningful impact, please don't hesitate to reach out.
+
+Let's connect and explore opportunities to learn, grow, and create together. 🌟
+
+### ++ My Skill Sheet ++
+- **Languages**: HTML, CSS, Python, JavaScript, C#, SQL, Java, C++, COBOL, JCL
+- **Libraries/Frameworks**: Flask, Jinja2, BCrypt, PyMySQL, Node.js, React, Express.js, Mongoose, ASP.NET Core, Bootstrap, Scrappy, SQLLite
+- **Databases**: MySQL, MongoDB, DB2, IMS
+- **Tools**: Git, GitHub, VSCode, IntelliJ, AWS, Postman, MySQL Workbench, MongoAtlas, JIRA
+
 
 <details>
  <summary><h3>👨‍💻 Antoine's Coding Journey</h3></summary>
