@@ -20,7 +20,7 @@ In my current role at TD Bank, I work on enhancing and maintaining mainframe app
 - **[A Pet Nose Best Website](https://github.com/AntoineGaton/A-Pet-Nose-Best-Site)**: Developed a website for my fiancée's dog-walking business using HTML, CSS, and JavaScript. The site showcases her services, provides client testimonials, and allows users to book appointments directly online.
 - **A Pet Nose Best Mobile App**: Created a mobile app using Flutter for my fiancée's business. The app enables clients to track, communicate, and book appointments for services. I plan to evolve this project into a SaaS platform that other dog walkers can subscribe to and use with their clients.
 - **[Private Wall](https://github.com/AntoineGaton/Python/tree/master/PrivateWall)**: Developed a secure Flask/MySQL application where users can manage their private messages, utilizing BCrypt for password encryption and Jinja2 for dynamic content rendering.
-- **[Web Scrapper](https://github.com/AntoineGaton/100_Day_Coding_Challenge/tree/main/Day_5_6_7/scrapy)**: Created a Python-based web scraping tool using Scrapy and SQLite, designed to scrape and store data from a book retailer's website.
+- **Invoice Automation App**: Built a React/Electron-based application that automates the creation of invoices for clients, using DocxGenerator to generate dynamic DOCX files. The app streamlines invoicing processes by allowing users to input information and automatically generate ready-to-use documents.
 - **[UkraineRELIEF](https://github.com/Captain-Zach/CD_Hackathon)**: Led a team to build a React/MySQL application during a hackathon, aimed at providing vital information and a communication platform for users in Ukraine.
 
 ## 📚 Educating and Inspiring
