@@ -6,40 +6,49 @@ I'm Antoine Gaton, a passionate software engineer with extensive experience in b
 
 Starting from a curiosity for understanding tech "under the hood," my journey has evolved into a full-fledged career. With a mix of formal education, personal projects, and industry experience, I've built up my skills across a diverse range of programming languages, frameworks, and tools. Here’s a snapshot of my technical expertise:
 
-- **Languages**: Python, JavaScript, Java, C++, C#, COBOL, JCL, HTML, CSS, SQL
-- **Frameworks/Libraries**: Flask, Node.js, React, Express.js, Jinja2, BCrypt, PyMySQL, Mongoose, ASP.NET Core, Spring, Bootstrap, Scrapy, SQLite, Svelte
-- **Databases**: MySQL, MongoDB, DB2, IMS
-- **Tools**: Git, GitHub, VSCode, IntelliJ, AWS, Vercel, Firebase, Postman, MySQL Workbench, MongoDB Atlas, JIRA, Confluence
+- **Languages**: Python (Django, Flask, Pandas, NumPy), JavaScript, Java, C++, C#, SQL, HTML/CSS
+- **Frameworks/Libraries**: React, Next.js, Electron, Django, Flask, Svelte, NativeScript, Tailwind CSS, Material-UI, shadcn/ui
+- **Databases**: MySQL, MongoDB, DynamoDB
+- **Tools**: Git, Vercel, Firebase, AWS (EC2, S3, Lambda, DynamoDB), Docker, VS Code, Postman, JIRA, Confluence
+- **Additional Skills**: REST API development, Test-Driven Development (TDD), Cloud Deployment, Serverless Architecture
 
 ## 🛠️ Hands-On Experience
 
-### **Software Engineer | TD Bank | 2022 - Present**
-At TD Bank, I focus on enhancing and maintaining mainframe applications, improving performance, and strengthening system reliability. I’ve collaborated with cross-functional teams to develop secure APIs, debug legacy codebases, and contribute to Agile processes. My work here has contributed to a 20% improvement in application performance and a 25% boost in reliability.
+### **Owner & Lead Developer | Code Monkey Studios LLC | Oct. 2024 - Present**
+Leading a team in the development of custom websites, mobile applications, and software solutions aligned with client goals.
+- Oversaw all stages of development, from design to deployment, including AWS-hosted solutions and Python-based automation.
+- Enhanced client satisfaction through strategic decision-making and proactive relationship management.
 
-### **Technical Projects**
-- **Feel Good Studios Website**: I’m currently working on a React-based front-end facelift for a Hawaii-based studio site, with features like dark mode, AI chatbot integration, and a 3D logo on the landing page, all while keeping WordPress as the CMS backend.
-- **A Pet Nose Best Mobile App**: A NativeScript and Svelte app designed for my fiancée’s pet care business, offering client features like pet tracking, tips, data analysis for walkers, and AI assistance. The project is set for future SaaS scalability.
-- **Invoice Automation App**: Converted my initial React/Electron-based invoice generator to a Next.js app. Now it includes login functionality and plans for Firebase storage to allow access anywhere.
-- **Algorithm Practice App**: A Chrome extension concept built with Next.js and Electron, offering algorithm questions with ranking and level systems to help developers improve algorithm and data structure skills. It includes code solution checking, ranking, and progress tracking similar to LeetCode.
-- **Game Tracker (WIP)**: Built with Django, this project allows users to manage video game collections, statuses, and completion levels using data from the Steam API.
-- **[UkraineRELIEF](https://github.com/Captain-Zach/CD_Hackathon)**: Led a team to develop a React/MySQL hackathon app providing communication and vital information for users in Ukraine.
+### **Software Engineer | TD Bank | Nov. 2022 - Nov. 2024**
+Focused on mainframe application performance and reliability improvements.
+- Increased application performance by 20% and boosted system reliability by 25%.
+- Developed secure APIs for customer account information processing using AWS API Gateway and Python.
+- Contributed to a 15% increase in sprint efficiency through issue resolution and Agile collaboration.
 
-## 📚 Mentoring and Inspiring Others
+### **Teaching Assistant | Coding Dojo | Sep. 2021 - Aug. 2024**
+Guided and mentored over 100 students in mastering development skills across Python, JavaScript, C#, and Java.
+- Delivered live demos, lectures, and over 200 code reviews, achieving a 90% course completion rate.
+- Fostered a supportive learning environment with a 95% student satisfaction rate.
 
-### **Teaching Assistant | Coding Dojo | 2021 - 2024**
-At Coding Dojo, I had the privilege of mentoring and guiding over 100 aspiring developers, delivering lectures, live coding demos, and personalized code reviews. My support helped maintain a 90% course completion rate and a 95% student satisfaction rate.
+## ✨ Technical Projects
+
+- **Feel Good Studios Website**: React-based front-end redesign for a Hawaii-based studio site, integrating features like dark mode, AI chatbot, and a 3D logo while leveraging WordPress as a CMS backend.
+- **A Pet Nose Best Mobile App**: NativeScript and Svelte app for pet care, including pet tracking, tips, data analysis, and AI assistance, with plans for SaaS scalability.
+- **Invoice Automation App**: Migrated from React/Electron to Next.js with login functionality and plans for Firebase integration to enable global access.
+- **AlgoXP**: Chrome extension built with Next.js and Electron, providing algorithm challenges with ranking systems, difficulty customization, and solution checking, similar to LeetCode.
+- **[DoughDoughs Pizzeria](https://doughdough-pizza.vercel.app/){**: Web application for managing pizzeria operations, featuring real-time updates, secure authentication, and responsive UI design.
 
 ## 🌱 Growth and Continuous Learning
 
-Beyond my formal education in Computer Science, where I earned a 3.9 GPA and consistently achieved President’s and Dean’s List honors, I've actively pursued learning new technologies like Svelte and Next.js and engaged in diverse projects. My desire to build software solutions that make a difference keeps me motivated.
+Beyond my formal education in Computer Science, where I earned a 3.9 GPA, I've actively pursued new technologies like Svelte and Next.js. My passion for building software solutions drives me to continuously learn and grow.
 
 ## 💪 What I Bring to the Table
 
-- **Problem-Solving Mindset**: I tackle challenges with a solutions-first approach, aiming for efficiency and effectiveness.
-- **Adaptability**: From exploring new frameworks to diving into embedded C++ for hardware interfaces, I thrive in dynamic environments.
-- **Collaboration**: My experience with Agile teams has shown me the power of teamwork and strong communication in delivering quality software.
-- **Mentorship**: My work at Coding Dojo solidified my commitment to helping others grow in tech.
+- **Problem-Solving Mindset**: Tackling challenges with innovative, solution-driven approaches.
+- **Adaptability**: Thriving in dynamic environments, from exploring frameworks to diving into embedded systems.
+- **Collaboration**: Strong experience in Agile environments, emphasizing teamwork and communication.
+- **Mentorship**: Supporting others’ growth through teaching and guidance.
 
 ## 🚀 Looking Ahead
 
-I'm always open to exciting projects and collaborations with professionals who share my drive and curiosity. Let’s connect if you’re looking for a dedicated software engineer who’s eager to make an impact in the tech world!
+I'm always open to exciting projects and collaborations. Let’s connect if you’re looking for a dedicated software engineer eager to make an impact in the tech world!
