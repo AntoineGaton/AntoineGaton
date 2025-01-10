@@ -36,7 +36,7 @@ Guided and mentored over 100 students in mastering development skills across Pyt
 - **A Pet Nose Best Mobile App**: NativeScript and Svelte app for pet care, including pet tracking, tips, data analysis, and AI assistance, with plans for SaaS scalability.
 - **Invoice Automation App**: Migrated from React/Electron to Next.js with login functionality and plans for Firebase integration to enable global access.
 - **AlgoXP**: Chrome extension built with Next.js and Electron, providing algorithm challenges with ranking systems, difficulty customization, and solution checking, similar to LeetCode.
-- **[DoughDoughs Pizzeria](https://doughdough-pizza.vercel.app/){**: Web application for managing pizzeria operations, featuring real-time updates, secure authentication, and responsive UI design.
+- **[DoughDoughs Pizzeria](https://doughdough-pizza.vercel.app/)**: Web application for managing pizzeria operations, featuring real-time updates, secure authentication, and responsive UI design.
 
 ## 🌱 Growth and Continuous Learning
 
