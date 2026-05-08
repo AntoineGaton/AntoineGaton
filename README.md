@@ -1,54 +1,80 @@
-## 👋 Hello World! I'm Antoine Gaton
+# 👋 Hey, I'm Antoine Gaton
 
-I'm Antoine Gaton, a passionate software engineer with extensive experience in both front-end and back-end development. My journey in the tech world is marked by continuous learning, hands-on experience, and a deep commitment to both my craft and the developer community I'm proud to support.
+Software engineer building at the intersection of full-stack development, AI workflows, and developer tooling. By day I work on enterprise cybersecurity software. By night and weekend, I run **Code Monkey Studios**, where I ship SaaS products, AI-powered tools, and the occasional thing built purely because it sounded fun.
 
-## 🚀 My Tech Journey
+I care about software that feels both powerful and human. Clean architecture under the hood, polished experience on top.
 
-Starting from a curiosity for understanding tech "under the hood," my journey has evolved into a full-fledged career. With a mix of formal education, personal projects, and industry experience, I've built up my skills across a diverse range of programming languages, frameworks, and tools. Here’s a snapshot of my technical expertise:
+---
 
-- **Languages**: Python (Django, Flask, Pandas, NumPy), JavaScript, Java, C++, C#, SQL, HTML/CSS
-- **Frameworks/Libraries**: React, Next.js, Electron, Django, Flask, Svelte, NativeScript, Tailwind CSS, Material-UI, shadcn/ui
-- **Databases**: MySQL, MongoDB, DynamoDB
-- **Tools**: Git, Vercel, Firebase, AWS (EC2, S3, Lambda, DynamoDB), Docker, VS Code, Postman, JIRA, Confluence
-- **Additional Skills**: REST API development, Test-Driven Development (TDD), Cloud Deployment, Serverless Architecture
+## 🚀 What I'm Up To
 
-## 🛠️ Hands-On Experience
+- 💼 Software Engineer at an enterprise cybersecurity company
+- 🛠️ Founder & sole dev of **Code Monkey Studios**
+- 🧠 Designing multi-agent AI workflows and developer productivity tools
+- 🎯 Working toward senior full-stack AI engineer while shipping products people actually use
+- 📍 Based in Fort Lauderdale, FL
 
-### **Owner & Lead Developer | Code Monkey Studios LLC | Oct. 2024 - Present**
-Leading a team in the development of custom websites, mobile applications, and software solutions aligned with client goals.
-- Oversaw all stages of development, from design to deployment, including AWS-hosted solutions and Python-based automation.
-- Enhanced client satisfaction through strategic decision-making and proactive relationship management.
+---
 
-### **Software Engineer | TD Bank | Nov. 2022 - Nov. 2024**
-Focused on mainframe application performance and reliability improvements.
-- Increased application performance by 20% and boosted system reliability by 25%.
-- Developed secure APIs for customer account information processing using AWS API Gateway and Python.
-- Contributed to a 15% increase in sprint efficiency through issue resolution and Agile collaboration.
+## 🎬 Featured Projects
 
-### **Teaching Assistant | Coding Dojo | Sep. 2021 - Aug. 2024**
-Guided and mentored over 100 students in mastering development skills across Python, JavaScript, C#, and Java.
-- Delivered live demos, lectures, and over 200 code reviews, achieving a 90% course completion rate.
-- Fostered a supportive learning environment with a 95% student satisfaction rate.
+### Reeled
+A decision engine for "what should I watch right now," built for people whose watchlists have become graveyards. Integrates TMDB, Trakt, and personal ratings into a recommendation experience that feels like a friend handing you the remote. The core moat is the **Movie DNA Engine**, a recommendation algorithm I'm developing across a three-tier roadmap.
 
-## ✨ Technical Projects
+### FetchFlow
+A white-label B2B SaaS platform for pet care businesses: dog walkers, pet sitters, transportation services. Booking, scheduling, staff and client portals, payments, and AI-assisted workflows, all customizable per tenant. First proof-of-concept tenant: A Pet Nose Best.
 
-- **Feel Good Studios Website**: React-based front-end redesign for a Hawaii-based studio site, integrating features like dark mode, AI chatbot, and a 3D logo while leveraging WordPress as a CMS backend.
-- **A Pet Nose Best Mobile App**: NativeScript and Svelte app for pet care, including pet tracking, tips, data analysis, and AI assistance, with plans for SaaS scalability.
-- **Invoice Automation App**: Migrated from React/Electron to Next.js with login functionality and plans for Firebase integration to enable global access.
-- **AlgoXP**: Chrome extension built with Next.js and Electron, providing algorithm challenges with ranking systems, difficulty customization, and solution checking, similar to LeetCode.
-- **[DoughDoughs Pizzeria](https://doughdough-pizza.vercel.app/)**: Web application for managing pizzeria operations, featuring real-time updates, secure authentication, and responsive UI design.
+### Studia
+An AI teaching platform built to behave like a real tutor instead of a chatbot. Interactive lessons, adaptive explanations, quizzes, markdown notes, and conversational sessions that adjust to how the learner is actually doing.
 
-## 🌱 Growth and Continuous Learning
+### Mission Control
+Internal multi-agent AI workspace for Code Monkey Studios. Scrum-style workflows where AI agents fill supporting roles: automated standups, task orchestration, Discord integration, and the developer productivity layer that makes solo studio work feel like a real team.
 
-Beyond my formal education in Computer Science, where I earned a 3.9 GPA, I've actively pursued new technologies like Svelte and Next.js. My passion for building software solutions drives me to continuously learn and grow.
+---
 
-## 💪 What I Bring to the Table
+## 🧰 Stack
 
-- **Problem-Solving Mindset**: Tackling challenges with innovative, solution-driven approaches.
-- **Adaptability**: Thriving in dynamic environments, from exploring frameworks to diving into embedded systems.
-- **Collaboration**: Strong experience in Agile environments, emphasizing teamwork and communication.
-- **Mentorship**: Supporting others’ growth through teaching and guidance.
+**Languages:** TypeScript, JavaScript, Python, C#, SQL, HTML/CSS
 
-## 🚀 Looking Ahead
+**Frontend:** Next.js, React, Vue, Svelte, Tailwind, shadcn/ui, Material UI, Electron, NativeScript, Tauri
 
-I'm always open to exciting projects and collaborations. Let’s connect if you’re looking for a dedicated software engineer eager to make an impact in the tech world!
+**Backend & APIs:** Node.js, FastAPI, Flask, REST, auth & third-party integrations
+
+**Cloud & DevOps:** Vercel, Firebase, Docker, GitHub Actions, CI/CD
+
+**Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Supabase
+
+**Tools:** VS Code, Claude Code, Git, Postman, Jira, Confluence
+
+---
+
+## 💼 Experience
+
+**Software Engineer, Enterprise Cybersecurity**
+Build and maintain full-stack applications and APIs, improve internal developer workflows, work across cloud infrastructure and modern pipelines, and help drive AI adoption and tooling initiatives across Agile teams.
+
+**Founder & Lead Developer, Code Monkey Studios**
+Ship SaaS products, automation systems, and AI-powered tools across both client work and personal ventures. Operate end-to-end as product owner, designer, and developer.
+
+**Teaching Assistant, Coding Dojo**
+Mentored students across multiple languages and frameworks, helping aspiring developers build technical foundations and the confidence to use them.
+
+---
+
+## 📚 Currently Learning
+
+AI engineering, agentic workflows, advanced system design, Azure AI & cloud certifications, local LLM tooling, embedded systems, DevOps and infrastructure.
+
+---
+
+## 💡 What I Value
+
+Clean code that someone else can actually maintain. Shipping real things instead of endlessly planning them. Collaboration and mentorship. Building products that genuinely help people. Continuous learning without losing the joy in it.
+
+---
+
+## 📫 Let's Connect
+
+Always interested in meaningful software, ambitious ideas, AI and automation projects, SaaS products, developer tooling, and open-source contributions.
+
+Thanks for stopping by 🚀
